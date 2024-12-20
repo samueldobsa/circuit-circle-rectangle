@@ -6,6 +6,7 @@ public class Main {
         return Math.PI * radius * radius;
     }
 
+
     public static double calculateCircleCircumference(double radius) {
         return 2 * Math.PI * radius;
     }
